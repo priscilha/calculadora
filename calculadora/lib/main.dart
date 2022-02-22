@@ -163,7 +163,7 @@ class _HomeState extends State<Home> {
                           });
                         },
                         buttonText: buttons[index],
-                        color: Colors.green[700],
+                        color: Colors.orange[700],
                         textColor: Colors.black,
                       );
                     }
