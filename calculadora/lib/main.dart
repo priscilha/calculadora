@@ -203,11 +203,6 @@ class _HomeState extends State<Home> {
             )
           ],
         ),
-        floatingActionButton: FloatingActionButton(
-          onPressed: _changeTheme,
-          tooltip: 'Increment',
-          child: const Icon(Icons.add),
-        ),
       ),
     );
   }
