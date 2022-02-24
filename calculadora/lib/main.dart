@@ -28,10 +28,11 @@ class _HomeState extends State<Home> {
   var userInput = '';
   var answer = '0';
   List<Color> theme1 = [
-    Colors.white,
+    Colors.deepPurpleAccent,
     Colors.white,
     Colors.grey,
-    Colors.indigoAccent
+    Colors.indigoAccent,
+    Colors.deepPurple,
   ];
 
   @override
@@ -107,7 +108,7 @@ class _HomeState extends State<Home> {
             Expanded(
               flex: 2,
               child: Container(
-                margin: const EdgeInsets.symmetric(horizontal: 20),
+                margin: const EdgeInsets.symmetric(horizontal: 25),
                 child: GridView.builder(
                     itemCount: buttons.length,
                     gridDelegate:
@@ -192,7 +193,7 @@ class _HomeState extends State<Home> {
                           buttonText: buttons[index],
                           color: isOperator(buttons[index])
                               ? Colors.blue.shade900
-                              : Colors.brown.shade100,
+                              : Colors.brown.shade50,
                           textColor: isOperator(buttons[index])
                               ? Colors.white
                               : Colors.black,
@@ -231,11 +232,5 @@ class _HomeState extends State<Home> {
 
     var f = NumberFormat("###,###,###.################", "pt_BR");
     answer = f.format(eval);
-  }
-
-  void _changeTheme() {
-    setState(() {
-      theme1 = [Colors.red, Colors.white, Colors.blue, Colors.grey];
-    });
   }
 }
