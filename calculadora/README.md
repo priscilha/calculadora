@@ -1,4 +1,4 @@
-# calculadora
+# Calculadora
 
 Simple calculator app using #flutter.
 
@@ -10,6 +10,6 @@ This project was based on Speedcode Calculator App Project by [Daffa Putera Kous
 
 ![](https://ik.imagekit.io/kouseina/calculator-flutter/banner_kEm_ld15T.jpg?updatedAt=1631519706621)
 
-## Customized interface by  Priscilha:
+## Customized interface by :rocket: Priscilha:
 
 ![](https://ik.imagekit.io/devpri/Customized_interface_umiR5-Q5Td.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1645733243116)
