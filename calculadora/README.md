@@ -1,16 +1,15 @@
 # calculadora
 
-A new Flutter project.
+Simple calculator app using #flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project was based on Speedcode Calculator App Project by [Daffa Putera Kouseina] (https://github.com/kouseina/calculator-flutter)
 
-A few resources to get you started if this is your first Flutter project:
+## Original interface concept:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![](https://ik.imagekit.io/kouseina/calculator-flutter/banner_kEm_ld15T.jpg?updatedAt=1631519706621)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Customized interface by  Priscilha:
+
+![](https://ik.imagekit.io/devpri/Customized_interface_umiR5-Q5Td.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1645733243116)
