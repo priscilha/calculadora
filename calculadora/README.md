@@ -4,7 +4,7 @@ Simple calculator app using #flutter.
 
 ## Getting Started
 
-This project was based on Speedcode Calculator App Project by [Daffa Putera Kouseina] (https://github.com/kouseina/calculator-flutter)
+This project was based on Speedcode Calculator App Project by [**Daffa Putera Kouseina**](https://github.com/kouseina/calculator-flutter)
 
 ## Original interface concept:
 
