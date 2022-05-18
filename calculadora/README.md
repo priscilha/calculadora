@@ -1,6 +1,6 @@
 # Calculadora
 
-Simple calculator app using #flutter.
+Simple calculator App using #flutter.
 
 ## Getting Started
 
